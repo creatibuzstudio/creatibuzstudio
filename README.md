@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://ibb.co.com/xqcQ4NMq" alt="Aditya Vikram Singh Banner"></p>
+ <img src="https://i.ibb.co.com/zVLwkzSV/Whats-App-Image-2026-09-18-at-23-22-51.jpg" alt="Aditya Vikram Singh Banner"></p>
 
   # 👋 Welcome to Jevxo Software Company
 
