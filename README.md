@@ -1,14 +1,14 @@
 <div align="center">
  <img src="https://i.ibb.co.com/zVLwkzSV/Whats-App-Image-2026-09-18-at-23-22-51.jpg" alt="Aditya Vikram Singh Banner"></p>
 
-  # 👋 Welcome to Jevxo Software Company
+  # 👋 Welcome to Creatibuz Studio 
 
-  **Building innovative software solutions for the modern world.**
+  **"Creatibuz Studio" Design. Develop. Transform**
 
-  [![Website](https://img.shields.io/badge/Website-jevxo.com-blue?style=for-the-badge&logo=google-chrome)](https://jevxo.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jevxo-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/jevxo)
-  [![Twitter](https://img.shields.io/badge/Twitter-@jevxo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/jevxo)
-  [![Email](https://img.shields.io/badge/Email-contact@jevxo.com-D14836?style=for-the-badge&logo=gmail)](mailto:contact@jevxo.com)
+  [![Website](https://img.shields.io/badge/Website-jevxo.com-blue?style=for-the-badge&logo=google-chrome)](https://creatibuzstudio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jevxo-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/company/creatibuzstudio/posts/?viewAsMember=true)
+  [![Twitter](https://img.shields.io/badge/Twitter-@jevxo-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/creatibuzstudio)
+  [![Email](https://img.shields.io/badge/Email-contact@jevxo.com-D14836?style=for-the-badge&logo=gmail)](mailto:info@creatibuzstudio.com)
 
 </div>
 
