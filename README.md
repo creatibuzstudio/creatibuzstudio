@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Aditya Vikram Singh Banner"></p>
+ <img src="https://ibb.co.com/xqcQ4NMq" alt="Aditya Vikram Singh Banner"></p>
 
   # 👋 Welcome to Jevxo Software Company
 
